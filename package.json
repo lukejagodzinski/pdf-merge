@@ -1,0 +1,12 @@
+{
+  "name": "pdf-merge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easy-pdf-merge": "^0.1.3"
+  }
+}

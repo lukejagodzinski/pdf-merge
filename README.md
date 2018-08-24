@@ -6,7 +6,7 @@ Samo uruchomienie skryptu jest bardzo proste. Jak już będziesz miał zainstalo
 cd /sciezka/do/katalogu/pdf-merge/
 ```
 
-Następnie trzeba uruchomić sam skrypt gdzie jako argument podajesz katalog z plikami PDF, które chcesz przerobić. Skrypt stworzy nowe pliki, które na końcu nazwy będą miały frazę `_processed.pdf`. To Tyle :)
+Następnie trzeba uruchomić sam skrypt gdzie jako argument podajesz katalog z plikami PDF, które chcesz przerobić. Skrypt stworzy nowe pliki, które na końcu nazwy będą miały frazę `_processed.pdf`. To tyle :)
 
 ```sh
 ./start.sh /sciezka/do/katalogu/z/plikami/pdf
